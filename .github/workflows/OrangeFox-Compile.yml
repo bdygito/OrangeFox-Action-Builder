@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/cd-Crypton/custom_recovery_tree_realme_nashc'
+        default: 'https://github.com/OrangeFoxRecovery/device_xiaomi_davinci/'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
@@ -30,7 +30,7 @@ on:
       DEVICE_PATH:
         description: 'Specify your device path.'
         required: true
-        default: 'device/realme/nashc'
+        default: 'device/xiaomi/davinci'
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
