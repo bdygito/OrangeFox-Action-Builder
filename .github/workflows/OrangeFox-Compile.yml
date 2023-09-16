@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/OrangeFoxRecovery/device_xiaomi_davinci/'
+        default: 'https://github.com/bdygito/android_device_xiaomi_raphael'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
@@ -30,7 +30,7 @@ on:
       DEVICE_PATH:
         description: 'Specify your device path.'
         required: true
-        default: 'device/xiaomi/davinci'
+        default: 'device/xiaomi/raphael'
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
